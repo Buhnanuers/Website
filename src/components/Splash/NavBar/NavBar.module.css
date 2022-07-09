@@ -1,0 +1,24 @@
+.topnav {
+  height: 3rem;
+  background-color: rgba(47, 79, 79, 0.54);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 2rem;
+  padding-right: 2rem;
+}
+
+.topnav a:hover {
+  color: orange;
+}
+
+.topnav a:active {
+  color: orange;
+}

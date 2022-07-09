@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06fee9d3.chunk.css",
+    "main.js": "/static/js/main.7fe9aab8.chunk.js",
+    "main.js.map": "/static/js/main.7fe9aab8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee4c62c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee4c62c2.js.map",
+    "static/js/2.e7cd654b.chunk.js": "/static/js/2.e7cd654b.chunk.js",
+    "static/js/2.e7cd654b.chunk.js.map": "/static/js/2.e7cd654b.chunk.js.map",
+    "static/css/3.9e32dae1.chunk.css": "/static/css/3.9e32dae1.chunk.css",
+    "static/js/3.866508a4.chunk.js": "/static/js/3.866508a4.chunk.js",
+    "static/js/3.866508a4.chunk.js.map": "/static/js/3.866508a4.chunk.js.map",
+    "static/css/4.ea47e358.chunk.css": "/static/css/4.ea47e358.chunk.css",
+    "static/js/4.163d767e.chunk.js": "/static/js/4.163d767e.chunk.js",
+    "static/js/4.163d767e.chunk.js.map": "/static/js/4.163d767e.chunk.js.map",
+    "static/css/5.43c4ba2e.chunk.css": "/static/css/5.43c4ba2e.chunk.css",
+    "static/js/5.0813f745.chunk.js": "/static/js/5.0813f745.chunk.js",
+    "static/js/5.0813f745.chunk.js.map": "/static/js/5.0813f745.chunk.js.map",
+    "static/css/6.fc723c3f.chunk.css": "/static/css/6.fc723c3f.chunk.css",
+    "static/js/6.50ff6ea0.chunk.js": "/static/js/6.50ff6ea0.chunk.js",
+    "static/js/6.50ff6ea0.chunk.js.map": "/static/js/6.50ff6ea0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.9e32dae1.chunk.css.map": "/static/css/3.9e32dae1.chunk.css.map",
+    "static/css/4.ea47e358.chunk.css.map": "/static/css/4.ea47e358.chunk.css.map",
+    "static/css/5.43c4ba2e.chunk.css.map": "/static/css/5.43c4ba2e.chunk.css.map",
+    "static/css/6.fc723c3f.chunk.css.map": "/static/css/6.fc723c3f.chunk.css.map",
+    "static/css/main.06fee9d3.chunk.css.map": "/static/css/main.06fee9d3.chunk.css.map",
+    "static/js/2.e7cd654b.chunk.js.LICENSE.txt": "/static/js/2.e7cd654b.chunk.js.LICENSE.txt",
+    "static/media/1024px-Tidal_Code_Screenshot.de778fd9.png": "/static/media/1024px-Tidal_Code_Screenshot.de778fd9.png",
+    "static/media/RAimage.e0b5f735.png": "/static/media/RAimage.e0b5f735.png",
+    "static/media/Screenshot 2022-06-15 220520.aec180bf.png": "/static/media/Screenshot 2022-06-15 220520.aec180bf.png",
+    "static/media/chatroom screen.0e9be6a3.png": "/static/media/chatroom screen.0e9be6a3.png",
+    "static/media/commbot.c58a3d26.png": "/static/media/commbot.c58a3d26.png",
+    "static/media/lionhead-rabbit-drawing-clip-art-lionhead-96826cef62334d7cb2ff5783b78bb3fa.deeea5c8.png": "/static/media/lionhead-rabbit-drawing-clip-art-lionhead-96826cef62334d7cb2ff5783b78bb3fa.deeea5c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee4c62c2.js",
+    "static/js/2.e7cd654b.chunk.js",
+    "static/css/main.06fee9d3.chunk.css",
+    "static/js/main.7fe9aab8.chunk.js"
+  ]
+}

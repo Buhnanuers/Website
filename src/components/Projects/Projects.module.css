@@ -1,0 +1,22 @@
+.container {
+  height: 40%;
+}
+
+ul {
+  display: inline-block;
+}
+
+.header {
+  font-size: 3rem;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  max-width: 10rem;
+  padding: 2rem;
+  padding-top: 5rem;
+  color: white;
+  text-decoration: none;
+  border-bottom: 10px solid orange;
+  padding-bottom: 1px;
+  margin-bottom: 5rem;
+}
